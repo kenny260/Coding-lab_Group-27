@@ -1,7 +1,5 @@
 #!/bin/bash
 
-#!/bin/bash
-
 # Display menu
 echo "Select log to archive:"
 echo "1) Heart Rate"
